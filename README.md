@@ -1,10 +1,10 @@
--Oi meu nome é Milena Leme
+:lipstick:-Oi meu nome é Milena Leme
 
--Estou interessada em aprender química 
+:high_heel:-Estou interessada em aprender química 
 
--Estou aprendendo no momento calculos de matematica
+:dark_sunglasses:-Estou aprendendo no momento calculos de matematica
 
--Estou tentando colaborar em ajudar minha mae
+:hearts:-Estou tentando colaborar em ajudar minha mae
 
--Moro em colombo agora 
+:crown:-Moro em colombo agora 
 
